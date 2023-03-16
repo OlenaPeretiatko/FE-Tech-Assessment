@@ -1,0 +1,31 @@
+.modal-panel {
+  position: fixed;
+  right: 0;
+  height: 100%;
+  background: #F1F2F1;
+  width: 35%;
+  min-width: 350px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.overlay-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.07);
+}
+
+.black-btn {
+  background-color: black;
+  color: white
+}
+
+.order-img {
+  width: 30%;
+}
+
+.text-grey {
+  color: #737171;
+}

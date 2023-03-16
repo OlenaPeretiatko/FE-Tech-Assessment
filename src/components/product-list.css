@@ -1,0 +1,30 @@
+.product-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.product-img {
+  height: 100px;
+}
+
+.background-img-container {
+  height: 100%;
+  min-height: 200px;
+  min-width: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+
+.text-pink{
+  color: #FE616B;
+}
+
+.product-img-container{
+  max-height: 250px;
+}
+
+.product-img-container > img{
+  max-height: 100%;
+}
